@@ -1,4 +1,4 @@
 # sample
-# This is a sample repo
-# this project as so an dependencies
+This is a sample repo
+# this project has so & so an dependencies
 # this project requires below configuration setup to run
